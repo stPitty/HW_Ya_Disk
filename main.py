@@ -1,7 +1,7 @@
 import requests
 import os
 
-my_token = "AQAAAAAnK65CAADLW49TAXPXR0YRvGe14ErHUgc"
+my_token = ""
 my_list = ['/Users/rup/Work/BTC/Shit/Contact-57369037-attachment-305508360.png',
            '/Users/rup/Work/BTC/profilowej-ikony-avatar-mężczyzna-modnisia-stylu-męska-moda-62449823.jpg',
            '/Users/rup/Work/BTC/Proxy boto.txt']
